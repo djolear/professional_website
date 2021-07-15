@@ -14,9 +14,9 @@ image:
 
 links:
 - icon: github
-  icon_pack: ai
+  icon_pack: fab
   name: Code
-  url: https://twitter.com/georgecushen
+  url: https://github.com/djolear/gallup_relative_income
 url_code: ""
 url_pdf: ""
 url_slides: ""
